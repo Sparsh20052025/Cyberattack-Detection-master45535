@@ -1,6 +1,6 @@
 # Cyberattack-Detection
-_Author: Antoine DELPLACE_  
-_Last update: 17/01/2020_  
+_Author: Sparsh Shukla_  
+_Last update: 10/11/2025_  
 
 This repository corresponds to the source code used for the Advanced Security project "__Cyber Attack Detection thanks to Machine Learning Algorithms__". This work has been carried out by Antoine Delplace, Sheryl Hermoso and Kristofer Anandita.  
 
